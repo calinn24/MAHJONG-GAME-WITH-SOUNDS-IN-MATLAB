@@ -12,5 +12,5 @@ The project includes a graphical user interface (GUI) with a Mahjong board and g
 1) Downlaod and install Matlab. You need a Mathworks account for this.
 2) Download app's files in the same folder.
 3) Open the appm.mlapp. An Matlab App Designer window will appear.
-4) You can run the game by clicking the green arrow.
+4) You can run the game by clicking RUN (the green arrow).
 5) ENJOY!
